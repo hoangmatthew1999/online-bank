@@ -36,7 +36,7 @@
                   <div class = "account">
                         <h1> Accounts</h1>
                         <div class="topnav2">
-                             <a href="" style="float: left;">Add an Account</a>
+                             <a href="add-account.php" style="float: left;">Add an Account</a>
                              <a href="delete-account.php" style="float: left;">Delete an Account</a>
                        </div>
                   </div>
