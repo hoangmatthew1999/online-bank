@@ -85,6 +85,7 @@
         $finalBalance = $temp - $balance;
         echo $finalBalance;
         echo "finalbalance ";
+        echo "hello";
 
         $sql = "UPDATE bankAccount SET accountBalance = $finalBalance WHERE accountNumber = $account" ;
         echo $sql;
