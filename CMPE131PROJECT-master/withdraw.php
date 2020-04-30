@@ -86,6 +86,7 @@
         echo $finalBalance;
         echo "finalbalance ";
         echo "hello";
+        echo "gel";
 
         $sql = "UPDATE bankAccount SET accountBalance = $finalBalance WHERE accountNumber = $account" ;
         echo $sql;
